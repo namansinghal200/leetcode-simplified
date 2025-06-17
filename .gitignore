@@ -1,7 +1,5 @@
-/.cph
-/.vscode
-/DSU/.cph
-/Graphs/.cph
-/Linked_Lists/.cph
-/Trees/.cph
-/Trees/.vscode
+# Ignore all .cph folders
+**/.cph/
+
+# Ignore all .vscode folders
+**/.vscode/
