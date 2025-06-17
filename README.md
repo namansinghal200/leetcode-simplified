@@ -25,11 +25,11 @@ Each file typically includes:
 
 ## Topics Covered So Far
 
-- [x] Linked Lists
-- [x] Binary Trees
-- [x] Graphs
-- [x] Disjoint Set Union (DSU)
-- [ ] Binary Search Trees (BSTs)
+- [x] Disjoint Set Union *(Covered)*
+- [x] Binary Trees *(Covered)*
+- [x] Graphs *(Covered)*
+- [x] Linked Lists *(Ongoing)*
+- [ ] Binary Search Trees 
 - [ ] Segement Trees
 - [ ] Stacks and Queues
 - [ ] Tries 
@@ -40,10 +40,9 @@ Each file typically includes:
 
 ## Why This Repo?
 
-- Reinforce fundamentals by coding from scratch.
-- Practice clean code and logical structure.
-- Revision-ready: Easy to come back and review.
-- Interview preparation: Focused on problems that often appear in tech interviews.
+- **Reinforce fundamentals** by coding from scratch.
+- **Revision-ready:** Easy to come back and review.
+- **Interview preparation:** Focused on problems that often appear in tech interviews.
 
 ---
 ## About Me
