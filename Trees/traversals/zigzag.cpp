@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// same as level order, just maintain a flag to decide the direction.
 struct Node
 {
     int data;

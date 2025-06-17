@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// get the left nodes, then the leaves, then the right nodes.
 struct Node
 {
     int data;

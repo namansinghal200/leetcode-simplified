@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// a recursive search from the root to the given node.
 struct Node
 {
     int data;

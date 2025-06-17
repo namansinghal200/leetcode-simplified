@@ -1,6 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// the main thing we have to make temperory links of the current node to its inorder predecessor.
+// inorder and preorder are pretty similar, just one change in the condition of pushing the data.
+// postorder is exactly same as preorder, just left and right are interchanged and the results are reversed at the end.
 struct Node
 {
     int data;

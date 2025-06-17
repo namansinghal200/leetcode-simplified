@@ -1,4 +1,4 @@
-// just find lca and the sum of distance from lca to ither of the nodes is the answer
+// just find lca and the sum of distance from lca to either of the nodes is the answer
 #include <bits/stdc++.h>
 using namespace std;
 

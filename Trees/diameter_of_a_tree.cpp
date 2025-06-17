@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// maximum of the sum of heights of left and right children across all nodes.
+
 struct Node
 {
     int data;

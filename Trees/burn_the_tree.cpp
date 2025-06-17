@@ -1,6 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define TreeNode Node
+
+// just find the parent and increase the count by one for each of the children and the parent.
+// maintain a visited array
+
 struct Node
 {
     int data;
