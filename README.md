@@ -65,6 +65,6 @@ cd leetcode-simplified
 ---
 
 ## Feedback
-Please feel free to connect and give me feedbacks regarding this repo. Let me know if there's a topic that I havee missed.
+Please feel free to connect and give me feedbacks regarding this repo. Let me know if there's a topic that I have missed.
 
 
