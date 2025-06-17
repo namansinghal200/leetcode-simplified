@@ -1,6 +1,6 @@
 # Leetcode Simplified – DSA Practice Repository
 
-Welcome to my curated collection of Data Structures and Algorithms (DSA) problems, solved using C++.  
+Welcome to my curated collection of Data Structures and Algorithms (DSA) problems, solved using **C++**.  
 This repository is structured topic-wise and aims to reflect clarity in thought, clean code, and strong fundamentals.
 
 
@@ -10,9 +10,9 @@ This repository is structured topic-wise and aims to reflect clarity in thought,
 
 Each folder contains problems related to that topic:
 
-- `Linked_Lists/` – Singly, doubly, cycle detection, intersection, etc.
-- `Trees/` – Binary trees, traversals, tree views, construction, serialization, etc.
-- `Graphs/` – BFS, DFS, topological sort, Dijkstra’s, algorithms, etc.
+- `Linked_Lists/` – Singly, doubly, cycle detection, sorting, addition etc.
+- `Trees/` – Binary trees, traversals, tree views, construction, standard BFS problems, Morris Traversal etc.
+- `Graphs/` – BFS, DFS, topological sort, shortest path algorithms, cycles etc.
 - `DSU/` – Union-Find, path compression, Kruskal’s algorithm, etc.
 - (More coming soon…)
 
@@ -46,6 +46,13 @@ Each file typically includes:
 - Interview preparation: Focused on problems that often appear in tech interviews.
 
 ---
+## About Me
+I’m Naman Singhal, a B.Tech student at IIIT Allahabad, entering my final year.
+I'm passionate about DSA and have solved over 1800 questions on Leetcode and Codeforces.
+Currently, I hold the rank of **Knight** on Leetcode and **Expert** on Codeforces.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/naman-singhal-604799290/) or [LeetCode](https://leetcode.com/u/namansinghal200/).
+
+---
 
 ## How to Use
 
@@ -54,3 +61,10 @@ Clone the repository and explore:
 ```bash
 git clone https://github.com/namansinghal200/leetcode-simplified.git
 cd leetcode-simplified
+```
+---
+
+## Feedback
+Please feel free to connect and give me feedbacks regarding this repo. Let me know if there's a topic that I havee missed.
+
+
