@@ -1,3 +1,5 @@
+// Problem Link: https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/C
+// itmo dsu step1, q3 (link not working)
 #include <bits/stdc++.h>
 using namespace std;
 class DSU

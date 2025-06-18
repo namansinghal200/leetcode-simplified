@@ -1,3 +1,5 @@
+// Problem Link: https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1
+
 #include <bits/stdc++.h>
 using namespace std;
 

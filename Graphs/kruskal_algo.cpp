@@ -1,3 +1,5 @@
+// Problem Link: https://www.geeksforgeeks.org/problems/minimum-spanning-tree-kruskals-algorithm/1
+
 #include <bits/stdc++.h>
 using namespace std;
 class DSU
@@ -90,5 +92,5 @@ int main()
         Solution krus;
         auto ans = krus.kruskalsMST(n, edges);
         cout << ans << endl;
-        }
+    }
 }

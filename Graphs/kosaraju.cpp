@@ -1,11 +1,13 @@
+// Problem Link: https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+
+// finding the number of strongly connected components
 #include <bits/stdc++.h>
 using namespace std;
 
 class Solution
 {
 private:
-    void dfs(int node, vector<int> &vis, vector<int> adj[],
-             stack<int> &st)
+    void dfs(int node, vector<int> &vis, vector<int> adj[], stack<int> &st)
     {
         vis[node] = 1;
         for (auto it : adj[node])
@@ -19,7 +21,6 @@ private:
         st.push(node);
     }
 
-private:
     void dfs3(int node, vector<int> &vis, vector<int> adjT[])
     {
         vis[node] = 1;
