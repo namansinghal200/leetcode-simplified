@@ -1,4 +1,4 @@
-// Problem Link: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A
+// Problem Link: https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long int
@@ -20,7 +20,7 @@ void solve()
             sum -= v1[i];
             i++;
         }
-        ans = max(ans, j - i + 1);
+        ans += j - i + 1;
     }
     cout << ans << endl;
 }
